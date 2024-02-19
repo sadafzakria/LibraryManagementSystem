@@ -87,8 +87,8 @@ SUPPLIER
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/102993150/236655950-12c67a9f-ec23-4441-b827-2065ff3a3fa9.png">
 
-## Contact
-
-If you have any questions or need assistance, feel free to reach out to:
-
-Sadaf Zakria, Sarah Colantoni, Hibba Qaraman, Megane Kickouama.
+## Collaborators
+- Sadaf Zakria
+- Sarah Colantoni
+- Hibba Qaraman
+- Megane Kickouama
